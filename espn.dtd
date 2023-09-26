@@ -1,0 +1,7 @@
+<!ELEMENT LigaMX (Partido)*>
+<!ELEMENT Partido (Fecha,Equipo,Marcador,Goleador,GolMinuto)*>
+<!ELEMENT Fecha (#PCDATA)>
+<!ELEMENT Equipo (#PCDATA)>
+<!ELEMENT Marcador (#PCDATA)>
+<!ELEMENT Goleador (#PCDATA)>
+<!ELEMENT GolMinuto (#PCDATA)>

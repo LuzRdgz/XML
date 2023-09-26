@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LigaMX SYSTEM "espn.dtd">
+<LigaMX>
+    <Partido>
+        <Fecha>Domingo 24 de septiembre 2023</Fecha>
+        <Equipo>Toluca</Equipo>
+        <Marcador>1</Marcador>
+        <Goleador>Maximiliano Araujo</Goleador>
+        <GolMinuto>54</GolMinuto>
+    </Partido>
+    <Partido>
+        <Fecha>Domingo 24 de septiembre 2023</Fecha>
+        <Equipo>America</Equipo>
+        <Marcador>1</Marcador>
+        <Goleador>Diego Valdes</Goleador>
+        <GolMinuto>25</GolMinuto>
+    </Partido>
+</LigaMX>
